@@ -122,7 +122,7 @@ git clone https://github.com/DevchannyP/javascript-typing-master.git
 
 또는 Live Server 확장으로 실행
 
-🔗 배포 링크
+🔗 블로그 링크
 👉 https://devchannyp-github-io.pages.dev/project/personal/CHAP-01-personal/
 
 📜 라이선스
